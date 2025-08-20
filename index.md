@@ -50,5 +50,5 @@ We may update this policy periodically. Any changes will be communicated through
 ## 9. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:<br>
 📧 Email: kim.hebert-losier@waikato.ac.nz<br>
-🌐 Website: ![https://profiles.waikato.ac.nz/kim.hebert-losier](https://profiles.waikato.ac.nz/kim.hebert-losier)<br>
+🌐 Website: <a href="https://profiles.waikato.ac.nz/kim.hebert-losier">https://profiles.waikato.ac.nz/kim.hebert-losier</a><br>
 By using Calf Raise App, you agree to this Privacy Policy.
